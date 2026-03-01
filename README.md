@@ -1,5 +1,6 @@
 # ✌️ About Me:
-Atualmente estudante de Sistemas de Informação pela Universidade Federal de Ouro Preto
+👾 Olá, visitante <br><br>👨‍💻Meu nome é Marcelo Henrique<br><br>🐧Atualmente curso Sistemas de Informação pela Universidade Federal de Ouro Preto<br><br>
+
 
 
 # 💻 Tech Stack:
