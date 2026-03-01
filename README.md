@@ -1,5 +1,13 @@
 # ✌️ About Me:
-👾 Olá, visitante <br><br>👨‍💻Meu nome é Marcelo Henrique<br><br>🐧Atualmente curso Sistemas de Informação pela Universidade Federal de Ouro Preto<br><br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=994&color=21A086&width=440&lines=%F0%9F%91%BE+Ol%C3%A1%2C+visitante!!!)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=994&color=21A086&repeat=false&width=440&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Meu+nome+%C3%A9+Marcelo+Henrique)](https://git.io/typing-svg)
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=2000&color=21A086&repeat=false&width=1000&lines=%F0%9F%90%A7+Atualmente+curso+Sistemas+de+Informa%C3%A7%C3%A3o+pela+Universidade+Federal+de+Ouro+Preto)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=994&color=21A086&width=440&lines=%F0%9F%98%8A+Seja+Bem-vindo!!)](https://git.io/typing-svg)
+
 
 
 
