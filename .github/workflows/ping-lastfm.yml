@@ -5,4 +5,10 @@ on:
   - cron: 0 * * * *
   workflow_dispatch:
 
-Jobs:
+jobs:
+  request:
+    runs-on: ubuntu-latest
+    steps:
+      - name: ping lastfm
+        run: curl "https://lastfm-recently-played.vercel.app/api?user=Seacelo_&width=1000&bg_color=115646"
+  
