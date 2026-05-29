@@ -12,7 +12,8 @@
 
 
 # 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+[![](https://skillicons.dev/icons?i=js,java,c,mysql,postgres)](https://skillicons.dev)
+
 
 # 🎶
 [![Last 5](https://lastfm-recently-played.vercel.app/api?user=Seacelo_&width=1000&bg_color=115646)](https://open.spotify.com/user/21u5h4gg3w5du5dt76zif6lqi?si=3a15b09c478342b4)
