@@ -14,8 +14,8 @@
 # 💻 Tech Stack:
 [![](https://skillicons.dev/icons?i=js,java,c,mysql,postgres)](https://skillicons.dev)
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=115646&height=180&section=footer"/>
 
-# 🎶
-[![Last 5](https://lastfm-recently-played.vercel.app/api?user=Seacelo_&width=1000&bg_color=115646)](https://open.spotify.com/user/21u5h4gg3w5du5dt76zif6lqi?si=3a15b09c478342b4)
+
 
 
